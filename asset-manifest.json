@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-04-feedback-emotion/static/css/main.5736c419.css",
+    "main.js": "/goit-react-hw-04-feedback-emotion/static/js/main.5b337c2e.js",
+    "index.html": "/goit-react-hw-04-feedback-emotion/index.html",
+    "main.5736c419.css.map": "/goit-react-hw-04-feedback-emotion/static/css/main.5736c419.css.map",
+    "main.5b337c2e.js.map": "/goit-react-hw-04-feedback-emotion/static/js/main.5b337c2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5736c419.css",
+    "static/js/main.5b337c2e.js"
+  ]
+}
