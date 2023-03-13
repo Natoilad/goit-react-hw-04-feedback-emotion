@@ -2,7 +2,6 @@ import { FeedbackOptions } from './FeedbackOptions/FeedbackOptions';
 import { Notification } from './Notification/Notification';
 import { Section } from './Section/Section';
 import { Statistics } from './Statistics/Statistics';
-// import css from './App.module.css';
 import { useState } from 'react';
 import { Container } from './App.styled';
 
@@ -30,7 +29,6 @@ export default function App() {
 
     return;
   };
-
   const countTotalFeedback = () => {
     return good + neutral + bad;
   };
