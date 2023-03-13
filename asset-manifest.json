@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-04-feedback-emotion/static/css/main.5736c419.css",
-    "main.js": "/goit-react-hw-04-feedback-emotion/static/js/main.5b337c2e.js",
+    "main.css": "/goit-react-hw-04-feedback-emotion/static/css/main.7acaea2f.css",
+    "main.js": "/goit-react-hw-04-feedback-emotion/static/js/main.f539d3d2.js",
     "index.html": "/goit-react-hw-04-feedback-emotion/index.html",
-    "main.5736c419.css.map": "/goit-react-hw-04-feedback-emotion/static/css/main.5736c419.css.map",
-    "main.5b337c2e.js.map": "/goit-react-hw-04-feedback-emotion/static/js/main.5b337c2e.js.map"
+    "main.7acaea2f.css.map": "/goit-react-hw-04-feedback-emotion/static/css/main.7acaea2f.css.map",
+    "main.f539d3d2.js.map": "/goit-react-hw-04-feedback-emotion/static/js/main.f539d3d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.5736c419.css",
-    "static/js/main.5b337c2e.js"
+    "static/css/main.7acaea2f.css",
+    "static/js/main.f539d3d2.js"
   ]
 }
